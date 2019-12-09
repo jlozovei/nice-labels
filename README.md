@@ -107,4 +107,4 @@ Depending on your review policy, specific labels can be used too. Good examples 
 ---
 Feel free to use, modify and share! :boom:
 
-Licensed under the [GNU 3.0](https://github.com/jlozovei/nice-labels/blob/master/LICENSE).
+Licensed under the [GPL-3.0](https://github.com/jlozovei/nice-labels/blob/master/LICENSE).
