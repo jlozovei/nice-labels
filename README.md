@@ -2,13 +2,13 @@
 Nice communication labels for projects.
 
 
-## :thinking_face: Why?
+## :thinking: Why?
 A clean communication between people is in the basis of a successful project - even more when you have people from different countries working together.
 
 Accents, words and expressions can be easily misunderstood or used in the wrong time. So, creating a pattern is always a better approach to prevent this kind of unconvenience.
 
 
-## :thinking_face: How?
+## :thinking: How?
 Here I'm leaving some ideas of labels to tag your PRs, issues and other kind of communications when creating/developing a project.
 
 They can be used in your repos (GitHub, GitLab...), kanban boards (JIRA, Trello, Asana...) and whatever tool you want to. 
@@ -28,7 +28,7 @@ If you want to use them, nice! But, try to keep them after the name (specially f
 
 Colors are very welcome too, and can be used with color psychology to help others understand the context. But beware, because not all people see them the same way you do. Try to avoid background/content merging, like it:
 
-<span style="display: inline-block; padding: 4px; border-radius: 4px; background-color: #d73a4a; font-weight: 500;">good first issue :school_satchel:</span>
+<img src="./label.png" alt="Avoid color merging" />
 
 
 ## :name_badge: Labels
